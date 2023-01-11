@@ -1,2 +1,2 @@
 # Launcher
-TGBD Launcher to projekt który umożliwia pobieranie oraz uruchamianie gier/aplikacji z studia TGBD
+TGBD Launcher is a launcher that allows you to install and manage our projects
